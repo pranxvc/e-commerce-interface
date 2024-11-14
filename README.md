@@ -11,5 +11,4 @@ A user-friendly electronic commerce platform allowing users to browse, select, a
 
 ## Technologies
 - **Frontend**: Python, Tkinter
-- **Backend**: Not specified
-- **Database**: Not specified
+
